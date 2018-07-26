@@ -44,3 +44,9 @@ It replaces Selenium, Protractor (wrapper), Mocha (test framework), Chai (assert
 - Mocks/stubs
 - Control clock
 - Great documentation
+
++++
+
+## Also nice error messages
+
+![](https://www.dropbox.com/s/ir6xj6jyv12hs1a/testing-cypress-good-error-messages.png?raw=1)
