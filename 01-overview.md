@@ -49,15 +49,17 @@ But it's contentious!
 
 +++
 
-# Why unit tests might not be the right focus
+## Why unit tests might not be the right focus
 
-1. Diminishing returns at your write more tests
-1. Unit tests can be fragile because they often end up testing implementation details
+- Diminishing returns at your write more tests
+- Unit tests can be fragile because they often end up testing implementation details
 
 +++
 
-3. Bugs that occur between multiple units of code are typically harder to find, test, and reason about
+- Bugs that occur between multiple units of code are typically harder to find, test, and reason about
 ![](https://cdn-images-1.medium.com/max/1600/0*eCs8GoVZVksoQtQx.gif)
-4. If your app doesn't work, your users don't care if you have 10k unit tests
+- If your app doesn't work, your users don't care if you have 10k unit tests
+
++++
 
 If integration/E2E testing could be sufficiently fast and easy, then maybe you should focus there. That's the goal behind Cypress
