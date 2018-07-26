@@ -1,4 +1,4 @@
-# Types of Tests
+## Types of Tests
 
 1. Unit
 1. Integration
@@ -33,7 +33,7 @@
 
 +++
 
-# Test Pyramid
+## Test Pyramid
 
 Normal model:
 
@@ -62,4 +62,6 @@ But it's contentious!
 
 +++
 
-If integration/E2E testing could be sufficiently fast and easy, then maybe you should focus there. That's the goal behind Cypress
+Focusing on integration/E2E tests could make sense if it were fast + easy.
+
+That's why Cypress tries to do

@@ -1,4 +1,4 @@
-# Best Practices
+## Best Practices
 
 - Test individual parts of your app at a time
 - Work on a single test at a time

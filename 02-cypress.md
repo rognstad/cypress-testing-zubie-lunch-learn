@@ -1,6 +1,4 @@
-# What's wrong with E2E testing now?
-
-## Selenium/WebDriver
+## What's wrong with Selenium/E2E testing now?
 
 1. Web has evolved since 2004
     1. Async
@@ -13,7 +11,7 @@
 
 +++
 
-# What is Cypress?
+## What is Cypress?
 
 > Fast, easy and reliable testing for anything that runs in a browser
 
@@ -21,7 +19,8 @@ Cypress is a free, open source, MIT-licensed testing tool that works in the brow
 
 +++
 
-### Tries to make testing fast and easy when
+## Tries to make testing fast and easy when
+
 1. Getting started (easy installation, opinionated)
 1. Writing tests (jQuery selectors, chainable methods)
 1. Using and maintaining tests (fast, clear steps, clear error messages, DOM snapshots, access to app context)
@@ -30,7 +29,7 @@ It replaces Selenium, Protractor (wrapper), Mocha (test framework), Chai (assert
 
 +++
 
-# Key features
+## Key features
 
 ![](https://www.cypress.io/img/cypress-test-runner-gui-in-browser.57d06913.png)
 

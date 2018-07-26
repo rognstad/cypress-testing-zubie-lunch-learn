@@ -1,4 +1,4 @@
-# Demo/Coding
+## Demo/Coding
 
 - Grouping tests
 - Mocking API requests
@@ -8,7 +8,7 @@
 
 +++
 
-# Growing Pains
+## Growing Pains
 
 - Supporting multiple environments
 - Targeting elements is sometimes tough
