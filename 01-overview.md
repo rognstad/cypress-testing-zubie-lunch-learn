@@ -57,8 +57,8 @@ But it's contentious!
 +++
 
 - Bugs that occur between multiple units of code are typically harder to find, test, and reason about
-![](https://cdn-images-1.medium.com/max/1600/0*eCs8GoVZVksoQtQx.gif)
 - If your app doesn't work, your users don't care if you have 10k unit tests
+![](https://cdn-images-1.medium.com/max/1600/0*eCs8GoVZVksoQtQx.gif)
 
 +++
 

@@ -1,17 +1,17 @@
 ## Demo/Coding
 
-- Grouping tests
-- Mocking API requests
 - Finding elements
 - Interacting with the DOM
 - Assertions
+- Grouping tests
+- Mocking API requests
 
 +++
 
 ## Growing Pains
 
-- Supporting multiple environments
 - Targeting elements is sometimes tough
-- Performance
-- Login
 - Organization/not repeating mock setup
+- Login
+- Supporting multiple environments
+- Performance
