@@ -19,6 +19,8 @@
 
 Cypress is a free, open source, MIT-licensed testing tool that works in the browser exactly like dev tools
 
++++
+
 ### Tries to make testing fast and easy when
 1. Getting started (easy installation, opinionated)
 1. Writing tests (jQuery selectors, chainable methods)
@@ -31,6 +33,8 @@ It replaces Selenium, Protractor (wrapper), Mocha (test framework), Chai (assert
 # Key features
 
 ![](https://www.cypress.io/img/cypress-test-runner-gui-in-browser.57d06913.png)
+
++++
 
 - Command log (incl. XHRs, URL changes, etc.)
 - Responsive controls

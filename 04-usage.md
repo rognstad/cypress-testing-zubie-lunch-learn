@@ -6,7 +6,6 @@
 - Interacting with the DOM
 - Assertions
 
-
 +++
 
 # Growing Pains
